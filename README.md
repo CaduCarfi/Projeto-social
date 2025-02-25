@@ -14,7 +14,7 @@ Você pode visualizar o projeto online através do seguinte link:
 [🔗 Celular Interativo - GitHub Pages](https://caducarfi.github.io/Projeto-social/)
 
 ## 📷 Preview
-![Uploading image.png…]()
+[![Uploading image.png…]()](https://caducarfi.github.io/Projeto-social/)
 
 ## 📌 Funcionalidades
 ✅ Simulação de uma interface de celular <br>
