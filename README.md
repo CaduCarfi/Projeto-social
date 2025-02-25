@@ -13,9 +13,6 @@ O projeto foi desenvolvido como parte dos estudos no **Curso em Vídeo**, visand
 Você pode visualizar o projeto online através do seguinte link:
 [🔗 Celular Interativo - GitHub Pages](https://caducarfi.github.io/Projeto-social/)
 
-## 📷 Preview
-[![Uploading image.png…]()](https://caducarfi.github.io/Projeto-social/)
-
 ## 📌 Funcionalidades
 ✅ Simulação de uma interface de celular <br>
 ✅ Ícones interativos para redes sociais <br>
