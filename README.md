@@ -14,8 +14,7 @@ Você pode visualizar o projeto online através do seguinte link:
 [🔗 Celular Interativo - GitHub Pages]()
 
 ## 📷 Preview
-![image](https://github.com/user-attachments/assets/5ff0be9a-07da-4932-9a2d-404c7a4b6c73)
-
+![Uploading image.png…]()
 
 ## 📌 Funcionalidades
 ✅ Simulação de uma interface de celular <br>
